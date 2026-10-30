@@ -1,0 +1,6 @@
+{
+  "name": "AURELIA LIVING — Luxury Furniture & Interior Design",
+  "description": "Thoughtfully curated luxury furniture, architectural lighting, and bespoke interior decor for refined modern spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
